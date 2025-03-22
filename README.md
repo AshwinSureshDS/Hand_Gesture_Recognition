@@ -68,6 +68,6 @@ The pipeline works as follows:
 
 The repository includes a Jupyter notebook (`hand_gesture_recognition.ipynb`) that demonstrates the development process and allows for experimentation with the code.
 
-## License
+## Credits
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Developed by Ashwin Suresh
